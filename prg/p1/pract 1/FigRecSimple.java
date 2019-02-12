@@ -1,4 +1,4 @@
- 
+
 
 // Importa la clase Graph2D (en el paquete graph2D).
 import graph2D.Graph2D;
