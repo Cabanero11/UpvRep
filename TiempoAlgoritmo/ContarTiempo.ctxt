@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ContarTiempo
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a\ e
+comment2.target=int\ linearSearch(int[],\ int)
+comment2.text=\r\n\ Algoritmo\ busca\ el\ elemento\ e,\ en\ el\ array\ a\r\n
+comment3.params=array
+comment3.target=int[]\ rellenarArray(int[])
+comment3.text=\ \r\n\ Rellena\ el\ array\ segun\ su\ tama\u00F1o\ \r\n
+numComments=4
